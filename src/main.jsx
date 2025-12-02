@@ -1,7 +1,7 @@
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import Home from './Home.jsx'
-import Contact from './Contact.jsx'
+import Home from './view/Home.jsx'
+import Contact from './view/Contact.jsx'
 
 const root = createRoot(document.getElementById('root'));
 
